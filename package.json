@@ -1,0 +1,26 @@
+{
+  "name": "ecomm-api",
+  "version": "1.0.0",
+  "description": "ecommerce applciation api mongodb, node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "stack"
+  ],
+  "author": "LaminaSamuel",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "cryptojs": "^2.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.10",
+    "paystack": "^2.0.1",
+    "paystack-node": "^0.3.0",
+    "stripe": "^8.181.0"
+  }
+}
